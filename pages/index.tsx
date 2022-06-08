@@ -18,14 +18,5 @@ const Home: NextPage= (_Studio) => {
     </div>
   )
 }
-<Link href={''}>href="/Studio</Link>
+<Link href="/Studio">Studio</Link>
 export default Home
-<!doctype html>
-<html>
-<head>
-<title>Example</title>
-</head>
-<body style="background-color:yellowgreen;color:white;">
-...content goes here...
-</body>
-</html>
